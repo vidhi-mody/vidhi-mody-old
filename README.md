@@ -1,16 +1,13 @@
-### Hi there 👋
+"When you play the **Game of Codes**, you execute or you fail. There is no middle ground."
 
-<!--
-**vidhi-mody/vidhi-mody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+while (success!=true) {
+   keepMovingForward(); 
+   }
+```
 
-Here are some ideas to get you started:
+Hey! I'm Vidhi. I see you've onboarded my Journey of trying to learn something new everyday, figuring out the whys, *'coding under the influence of caffeine'*, debugging, executing and staying current in the technology arena with one final destination to be the "Queen of Codes"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My career is developing software, but my life is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
+
+If you ever want to connect hit me up on [LinkedIn](https://www.linkedin.com/in/vidhi-mody-21629a150) or [Twitter](https://twitter.com/vidhi_mody/). 
