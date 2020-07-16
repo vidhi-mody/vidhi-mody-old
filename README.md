@@ -6,8 +6,8 @@ while (success!=true) {
    }
 ```
 
-Hey! I'm Vidhi. I see you've onboarded my Journey of trying to learn something new everyday, figuring out the whys, *'coding under the influence of caffeine'*, debugging, executing and staying current in the technology arena with one final destination to be the "Queen of Codes"
+Hey! I'm Vidhi. I see you've onboarded my [Journey](https://vidhi-mody.github.io/) of trying to learn something new everyday, figuring out the whys, *'coding under the influence of caffeine'*, debugging, executing and staying current in the technology arena with one final destination to be the "Queen of Codes"
 
 My career is developing software, but my life is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
 
-If you ever want to connect hit me up on [LinkedIn](https://www.linkedin.com/in/vidhi-mody-21629a150) or [Twitter](https://twitter.com/vidhi_mody/). 
+If you ever want to connect hit me up on [LinkedIn](https://www.linkedin.com/in/vidhi-mody-21629a150). 
