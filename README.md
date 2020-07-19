@@ -10,4 +10,4 @@ Hey! I'm Vidhi. I see you've onboarded my [Journey](https://vidhi-mody.github.io
 
 My career is developing software, but my life is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
 
-If you ever want to connect hit me up on [LinkedIn](https://www.linkedin.com/in/vidhi-mody-21629a150) or [Telegram](https://t.me/Vidhi_Mody). 
+If you ever want to connect hit me up on [LinkedIn](https://www.linkedin.com/in/vidhi-m) or [Telegram](https://t.me/Vidhi_Mody). 
