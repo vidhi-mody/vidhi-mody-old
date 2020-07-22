@@ -1,4 +1,4 @@
-# Hey! I'm [Vidhi](https://vidhi-mody.netlify.app/)
+# Hey! I'm [Vidhi](https://vidhi-mody.netlify.app/) <img src="https://github.com/vidhi-mody/vidhi-mody/blob/master/gifs/smiley.gif" width= 30px>
 
 <img src="https://github.com/vidhi-mody/vidhi-mody/blob/master/gifs/hi.gif" width= 40%>
 
