@@ -1,6 +1,8 @@
 # Hey! I'm [Vidhi](https://vidhi-mody.netlify.app/) <img src="https://github.com/vidhi-mody/vidhi-mody/blob/master/gifs/smiley.gif" width= 30px>
 
+<p align="center">
 <img src="https://github.com/vidhi-mody/vidhi-mody/blob/master/gifs/hi.gif" class="center" width= 40%>
+</p>
 
 I see you've onboarded my [Journey](https://vidhi-mody.github.io/) of trying to learn something new everyday, figuring out the whys, *'coding under the influence of caffeine'*, debugging, executing and staying current in the technology arena with one final destination to be the **"Queen of Codes"**
 
