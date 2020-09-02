@@ -6,7 +6,7 @@
 
 My career is developing software, but my life is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
 
-I’m passionate about building tools to help people save time and do more with their lives. I enjoy writing technical articles for a number of [publications](https://scholar.google.com/citations?user=IbedRsUAAAAJ&hl=en). You can read my articles at my [blog](https://vidhi-mody.netlify.app/hi/) where I write about software development, computer science, competitive coding, good coding practices, and much more.
+I’m passionate about building tools to help people save time and do more with their lives. I enjoy writing technical articles and research papers for a number of [publications](https://scholar.google.com/citations?user=IbedRsUAAAAJ&hl=en). You can read my articles at my [blog](https://vidhi-mody.netlify.app/hi/) where I write about software development, computer science, competitive coding, good coding practices, and much more.
 
 My goal is to travel the world with just one bag. When I’m not on a computer, I’m probably making pour-over coffee or practicing my zombie apocalypse skills, just not at the same time since shooting arrows through zombie heads makes maintaining a steady pour rate rather difficult.
 
