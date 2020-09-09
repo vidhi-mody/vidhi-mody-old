@@ -17,7 +17,6 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 ![Profile Views](https://komarev.com/ghpvc/?username=vidhi-mody)
 
 ![Vidhi's Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi-mody&layout=compact)
-
 ![Vidhi's Github Stats](https://github-readme-stats.vercel.app/api?username=vidhi-mody&show_icons=true)
 
 
