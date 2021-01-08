@@ -30,10 +30,6 @@
 <h3>Recent in my Blog</h3>
 <ul>
 
-<li><a href="https://vidhi-mody.netlify.app/blog/2020-07-18-gsocpedia-chapter-five/"><b>GSoCpedia: Chapter Five</b></a></li>
-<li><a href="https://vidhi-mody.netlify.app/blog/2020-07-04-gsocpedia-the-journey-so-far/"><b>GSoCpedia: The Journey So Far</b></a></li>
-<li><a href="https://vidhi-mody.netlify.app/blog/2020-06-30-gsocpedia-chapter-four/"><b>GSoCpedia: Chapter Four</b></a></li>
-<li><a href="https://vidhi-mody.netlify.app/blog/2018-05-31-introduction-to-gatsby/"><b>Introduction to Gatsby</b></a></li>
 </ul>
 
 <h3>Find me in the 'verse</h3>
@@ -46,6 +42,6 @@
 
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b>!</br>
-Last refresh: 2021-01-08T20:23:52.825Z<br />
+Last refresh: 2021-01-08T20:59:40.027Z<br />
 </p>
 <p align="center"><img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/vidhi-mody/vidhi-mody?style=plastic&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/vidhi-mody/vidhi-mody?style=plastic&labelColor=343b41"/></p>
